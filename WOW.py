@@ -16,7 +16,7 @@ name = input("SHAHED366 ")
 
 print (" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 
-print ("		 A geeky birthday wish from a geeky friend!")sahed366 ("		 ==========================================")
+print ("		 A geeky birthday wish from a geeky friend!"		
 
 print ("		    Created By Sahed Vai")
 
